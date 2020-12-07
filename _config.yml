@@ -1,13 +1,14 @@
-title: Your awesome title
+title: Rebekah Coley
 author: GitHub User
-email: your-email@domain.com
-description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-
+email: coleyrebekah@gmail.com
+description: I am a postgraduate with a masters degree in molecular biology, and have recently completed Generation UK’s Junior Data Engineering program. 
+I am enthusiastic to apply my newly acquired technical skills and previous transferable skills to a junior data engineer role.
+  
 # social links
-twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
-github_username:  your-github-handle # DO NOT include the @ character, or else the build will fail!
+linkedin_username: Rebekah Coley # DO NOT include the @ character, or else the build will fail!
+github_username: rebekahcoley-programs # DO NOT include the @ character, or else the build will fail!
+instagram_username: rebekahcoley_94
 
 show_excerpts: true # set to false to remove excerpts on the homepage
+
+theme: minima
