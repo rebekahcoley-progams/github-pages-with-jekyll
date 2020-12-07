@@ -1,5 +1,5 @@
 ---
-Brew App
+"Brew App"
 ---
 
 
